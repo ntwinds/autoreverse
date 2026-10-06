@@ -1,6 +1,6 @@
-================================================================================
+
                     AutoReverse - Binary Ninja Edition v1.0.0
-================================================================================
+
 
 AutoReverse is a high-performance native desktop binary analysis, reverse
 engineering, and live instrumentation platform for Windows x64 executables.
